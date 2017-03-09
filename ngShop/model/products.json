@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Ziemniak",
+		"weight": 1,
+		"desc": "ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue ac",
+		"price": 0.80
+	},
+	{
+		"name": "Marchew",
+		"weight": 1,
+		"desc": "id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque penatibus",
+		"price": 3.40
+	},
+	{
+		"name": "Jabłko",
+		"weight": 1.69,
+		"desc": "eros. Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt",
+		"price": 3.90
+	},
+	{
+		"name": "Kapusta czerwona",
+		"weight": 3,
+		"desc": "volutpat. Nulla dignissim. Maeprices ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maeprices malesuada fringilla est. Mauris eu turpis. Nulla aliquet.",
+		"price": 2.50
+	},
+	{
+		"name": "Kapusta pekinska",
+		"weight": 1,
+		"desc": "lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra. Maeprices iaculis",
+		"price": 2.99
+	},
+	{
+		"name": "Por",
+		"weight": 1.97,
+		"desc": "cursus in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis,",
+		"price": 3.20
+	},
+	{
+		"name": "Cytryna",
+		"weight": 2,
+		"desc": "magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo sit",
+		"price": 4.70
+	},
+	{
+		"name": "Banan",
+		"weight": 1,
+		"desc": "libero est, congue a, aliquet vel, vulputate eu, odio. Phasellus at",
+		"price": 5.55
+	}
+]

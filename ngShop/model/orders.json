@@ -1,0 +1,43 @@
+[
+	{
+		"userId":1,
+		"name":"Adam",
+		"email":"adam@email.com",
+		"items":
+		[
+			{
+				"name":"Marchew",
+				"desc":"id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque penatibus",
+				"price":3.40,
+				"weight":1,
+				"qty":1
+			},
+			{
+				"name":"Cytryna",
+				"desc":"magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo sit",
+				"price":4.70,
+				"weight":2,
+				"qty":2
+			}
+		],
+		"total":12.80,
+		"status":0
+	},
+	{
+		"userId":1,
+		"name":"Andrzej",
+		"email":"andrzej@email.com",
+		"items":
+		[
+			{
+			"name":"Kapusta czerwona",
+			"desc":"volutpat. Nulla dignissim. Maeprices ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maeprices malesuada fringilla est. Mauris eu turpis. Nulla aliquet.",
+			"price":2.50,
+			"weigth":3,
+			"qty":5
+			}
+		],
+		"total":12.50,
+		"status":1
+	}		
+]
